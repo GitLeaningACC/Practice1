@@ -1,0 +1,22 @@
+git --verion
+git config --global user.email""
+git config --global user.email"ken.sakamoto@scsk.jp"
+git config --global user.email"stormtest_report@yahoo.co.jp"
+stormtest_report@yahoo.co.jp
+git config --global user.name""
+git config --global user.name"KenjiSakamotoSCSK"
+git config --global user.name"GitLeaningACC"
+cd (path to work folder)
+KenjiSakamotoSCSK
+GitLeaningACC
+a555a666a5555a666
+git init
+git status
+git add (filename)
+git add .
+git commit -m ""
+git log
+git checkout -b (branch path)
+git reset
+git revert
+
